@@ -1,0 +1,30 @@
+.btn {
+    width: 85px;
+    height: 35px;
+    border-radius: 5px;
+    color: #fff;
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+
+.btn:hover {
+background-color: rgb(79, 117, 122);
+}
+
+.btn--primary {
+    background-color: rgb(85, 88, 237);
+}
+
+.btn--secondary {
+    background-color: rgb(80, 82, 84);
+}
+
+.btn--small {
+    font-size: 14px;
+}
+
+.btn--medium {
+    font-size: 18px;
+}
